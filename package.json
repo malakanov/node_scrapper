@@ -1,0 +1,22 @@
+{
+  "name": "node_scrapper",
+  "version": "1.0.0",
+  "description": "node scrapper",
+  "main": "index..js",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cherio": "^1.0.0-rc.2",
+    "puppeteer": "^5.0.0",
+    "transliteration": "^2.1.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "scrapper"
+  ],
+  "author": "Sergey Malakanov",
+  "license": "ISC"
+}
